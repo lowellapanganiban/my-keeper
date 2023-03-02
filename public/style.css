@@ -46,11 +46,11 @@ header {
     float: left;
   }
   .Note h1 {
-    font-size: 1.1em;
+    font-size: 0.5em;
     margin-bottom: 6px;
   }
   .Note p {
-    font-size: 1.1em;
+    font-size: 0.5em;
     margin-bottom: 10px;
     white-space: pre-wrap;
     word-wrap: break-word;
