@@ -1,6 +1,6 @@
-import notes from "./notes";
 
-const Note = (props) => {
+
+function Note(props) {
     return (
     <div className="Note">
         <h1>{props.title}</h1>
